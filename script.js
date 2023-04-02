@@ -1,0 +1,1 @@
+document.body.innerHTML = '<h1>Lello from JavaScript</h1>'
